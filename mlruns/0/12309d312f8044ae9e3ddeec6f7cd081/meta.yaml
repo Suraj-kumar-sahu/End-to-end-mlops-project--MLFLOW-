@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/Desktop/End-to-end-mlops-project--MLFLOW-/mlruns/0/12309d312f8044ae9e3ddeec6f7cd081/artifacts
+end_time: 1717933049052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12309d312f8044ae9e3ddeec6f7cd081
+run_name: gaudy-moth-499
+run_uuid: 12309d312f8044ae9e3ddeec6f7cd081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717933044228
+status: 3
+tags: []
+user_id: LENOVO

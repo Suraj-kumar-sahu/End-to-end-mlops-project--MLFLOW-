@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/Desktop/End-to-end-mlops-project--MLFLOW-/mlruns/0/f30b0ab2c7e94976b0c7136cdcd6a950/artifacts
+end_time: 1717932358671
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f30b0ab2c7e94976b0c7136cdcd6a950
+run_name: adorable-ape-441
+run_uuid: f30b0ab2c7e94976b0c7136cdcd6a950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717932354039
+status: 3
+tags: []
+user_id: LENOVO

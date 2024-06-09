@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/Desktop/End-to-end-mlops-project--MLFLOW-/mlruns/0/970b3c6e2c88471b87b56faaf7deba93/artifacts
+end_time: 1717932486380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 970b3c6e2c88471b87b56faaf7deba93
+run_name: sassy-dolphin-591
+run_uuid: 970b3c6e2c88471b87b56faaf7deba93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717932481502
+status: 3
+tags: []
+user_id: LENOVO

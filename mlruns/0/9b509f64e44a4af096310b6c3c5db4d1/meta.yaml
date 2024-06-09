@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/Desktop/End-to-end-mlops-project--MLFLOW-/mlruns/0/9b509f64e44a4af096310b6c3c5db4d1/artifacts
+end_time: 1717932121798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b509f64e44a4af096310b6c3c5db4d1
+run_name: worried-cat-351
+run_uuid: 9b509f64e44a4af096310b6c3c5db4d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717932116887
+status: 3
+tags: []
+user_id: LENOVO

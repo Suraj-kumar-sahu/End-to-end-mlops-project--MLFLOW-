@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/LENOVO/Desktop/End-to-end-mlops-project--MLFLOW-/mlruns/0/f446fd1133d1493898c1f1ef84a0cce0/artifacts
+end_time: 1717931463239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f446fd1133d1493898c1f1ef84a0cce0
+run_name: redolent-duck-144
+run_uuid: f446fd1133d1493898c1f1ef84a0cce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717931457946
+status: 3
+tags: []
+user_id: LENOVO
