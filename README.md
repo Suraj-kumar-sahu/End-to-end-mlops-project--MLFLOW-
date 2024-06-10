@@ -115,7 +115,7 @@ export MLFLOW_TRACKING_PASSWORD=6e1db863674b4d3dd27ccb221f1a4fde70d2d378
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.ap-south-1.amazonaws.com/mlproj
+    - Save the URI: 471112680978.dkr.ecr.eu-north-1.amazonaws.com/mlproj
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -140,6 +140,7 @@ export MLFLOW_TRACKING_PASSWORD=6e1db863674b4d3dd27ccb221f1a4fde70d2d378
 	newgrp docker
 	
 # 6. Configure EC2 as self-hosted runner:
+	# here you are connecting your github with the aws
     setting>actions>runner>new self hosted runner> choose os> then run command one by one
 
 
@@ -149,9 +150,9 @@ export MLFLOW_TRACKING_PASSWORD=6e1db863674b4d3dd27ccb221f1a4fde70d2d378
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = eu-north-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = demo>>  471112680978.dkr.ecr.eu-north-1.amazonaws.com/mlproj
 
     ECR_REPOSITORY_NAME = simple-app
 
